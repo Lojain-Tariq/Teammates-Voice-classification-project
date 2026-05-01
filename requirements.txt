@@ -1,0 +1,5 @@
+scikit-learn
+librosa
+gradio
+pandas
+numpy
